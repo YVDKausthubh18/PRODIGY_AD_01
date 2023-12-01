@@ -11,10 +11,7 @@ This simple calculator allows us to perform various operations such as addition 
 
 # Sample GUI Interface - 
 
-![Alt text]([image link](https://github.com/YVDKausthubh18/PRODIGY_AD_01/blob/main/simple%20calculator.PNG)https://github.com/YVDKausthubh18/PRODIGY_AD_01/blob/main/simple%20calculator.PNG)
-
-# Sample Demo
-
+![Alt text](https://github.com/YVDKausthubh18/PRODIGY_AD_01/blob/main/simple%20calculator.PNG)https://github.com/YVDKausthubh18/PRODIGY_AD_01/blob/main/simple%20calculator.PNG)
 
 # Developed by - Y V D Kausthubh
 
